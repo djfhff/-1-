@@ -2,3 +2,8 @@ body {
     margin: 50px 40px;
     background: url('photo_2026-03-06_19-35-01.jpg') no-repeat center center fixed;
 }
+h1{
+    display: flex;
+    color: palevioletred;
+    font-family: 'Courier New', Courier, monospace;
+}
